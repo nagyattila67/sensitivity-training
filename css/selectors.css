@@ -1,0 +1,8 @@
+@font-face{font-family:"Roboto-Regular";src:url("/lib/fonts/Roboto/Roboto/Roboto-Regular.ttf")}
+.container-fluid{font-family:"Roboto-Regular",sans-serif}
+#mainContent{background-color: #dbdbdb;border: 1px solid #7e7e7e;border-radius:10px;margin:10px 0;padding:20px}
+#introduction{text-align: center;}
+#average{position:sticky;top:50px;padding:20px;display:inline-block;text-align: center;font-size:x-large;border: 1px solid #7e7e7e;border-radius:10px;background-color: #ededed;}
+#pForActualAverage{color:purple;font-size:100px}
+
+
